@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PennyFramework",
+        "repositoryURL": "https://github.com/clarknt/penny-framework.git",
+        "state": {
+          "branch": null,
+          "revision": "756303ab8ebb72a860e953029e9ff7c22560d4e0",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
